@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Notch1_retina_multiomics_software
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Yoshitoku
+    family-names: Watabe
+    email: watabe.yoshitoku.3d@alumni.tsukuba.ac.jp
+    affiliation: University of Tsukuba
+    orcid: 'https://orcid.org/0009-0007-4611-8193'
+  - given-names: Masaharu
+    family-names: Yoshihara
+    email: yoshihara.masahar.ly@alumni.tsukuba.ac.jp
+    affiliation: University of Tsukuba
+    orcid: 'https://orcid.org/0000-0002-0212-0909'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.14333878
+license: CC0-1.0
